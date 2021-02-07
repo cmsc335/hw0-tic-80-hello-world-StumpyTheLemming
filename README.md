@@ -8,7 +8,7 @@ Henning hf3059@bard.edu
 
 CMSC 335: Games Systems
 
-Collaboration Statement: I worked aloneon this assigment
+Collaboration Statement: I worked alone on this assigment
 
 with assistance from Shuang on how to run html on itch and the useful links.
 
